@@ -54,10 +54,3 @@ MIT License — free to use, modify, and distribute.
 
 ---
 
-## 📸 Screenshots (Optional)
-
-You can include screenshots here:
-
-- Chat panel interface  
-- Sidebar with active selection  
-- Copilot and Details tabs in action  
